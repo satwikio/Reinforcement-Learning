@@ -1,1 +1,1 @@
-This is a test repo.
+This repo contains the various meathods of finding the optimal values of different states and optimal policy.
